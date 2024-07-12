@@ -1,9 +1,9 @@
-#Quotes Proxy
+# Quotes Proxy
 
-##How to run
+## How to run
 
 docker compose up -d
 
-##How to log
+## How to log
 
 docker compose logs -f
